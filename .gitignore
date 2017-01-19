@@ -11,3 +11,7 @@ tetrad.iml
 *.iml
 analysis/AnalysisScriptAlpha.java
 analysis/TestFunctions.java
+causal-cmd/target/
+tetrad-gui/target/
+tetrad-lib/build/
+tetrad-lib/target/
