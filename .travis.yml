@@ -6,6 +6,8 @@ jdk:
 branches:
   only:
   - development
+  - 2017-04
+  - 2017-04-dev-merge
 
 env:
   global:
